@@ -1,0 +1,30 @@
+.login h1 sub {
+    margin: 3px;
+}
+
+.login {
+    border: 1px solid #000;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+.login-input {
+    margin: inherit;
+    display: block;
+    min-width: 200px;
+    min-height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.login-input input:last-child {
+    margin-bottom: 5px;
+}
+
+.login-additional div {
+    font-size: 10px;
+    display: inline-block;
+    margin: 0 30px;
+}
